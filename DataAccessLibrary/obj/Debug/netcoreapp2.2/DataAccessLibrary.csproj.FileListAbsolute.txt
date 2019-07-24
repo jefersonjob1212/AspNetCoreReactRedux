@@ -1,0 +1,11 @@
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.deps.json
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.dll
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.runtimeconfig.json
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.runtimeconfig.dev.json
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.pdb
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.dll
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\DataAccessLibrary\obj\Debug\netcoreapp2.2\DataAccessLibrary.pdb

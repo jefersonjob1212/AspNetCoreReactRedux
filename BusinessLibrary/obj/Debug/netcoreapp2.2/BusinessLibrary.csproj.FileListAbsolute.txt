@@ -1,0 +1,12 @@
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\bin\Debug\netcoreapp2.2\BusinessLibrary.deps.json
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\bin\Debug\netcoreapp2.2\BusinessLibrary.dll
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\bin\Debug\netcoreapp2.2\BusinessLibrary.pdb
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.dll
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\bin\Debug\netcoreapp2.2\DataAccessLibrary.pdb
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.csprojAssemblyReference.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.AssemblyInfoInputs.cache
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.AssemblyInfo.cs
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.csproj.CopyComplete
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.dll
+C:\Users\jeferson.santos\source\repos\AspNetCoreReactRedux\BusinessLibrary\obj\Debug\netcoreapp2.2\BusinessLibrary.pdb
